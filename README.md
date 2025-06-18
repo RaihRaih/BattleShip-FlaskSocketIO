@@ -1,2 +1,2 @@
-# BattleShip-FlaskSocketIO
-GAME : BattleShip usando Flask SocketIO - 2 playears
+# Teste chat com FlaskSocketIO
+Teste feito para uma atividade.
